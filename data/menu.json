@@ -1,0 +1,684 @@
+﻿{
+    "store":  {
+                  "name":  "Oliva Gourmet Sh da Bahia",
+                  "phone":  "7132476337",
+                  "logo":  "https://storage.googleapis.com/ovc-storage/menumais/416c4e5a-23ec-4f4c-b94d-6c4b18f4c5c9.jpg",
+                  "payments":  [
+                                   "Cartão de Crédito",
+                                   "Cartão de Débito",
+                                   "Em espécie"
+                               ]
+              },
+    "categories":  [
+                       {
+                           "name":  "Entrada",
+                           "items":  [
+                                         {
+                                             "name":  "Tabua de frios 250 g",
+                                             "description":  "null",
+                                             "price":  54.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/2a82f96e-2dbe-41e2-92c2-0910a7c91bf6.jfif"
+                                         },
+                                         {
+                                             "name":  "Batata frita 300 gr",
+                                             "description":  "null",
+                                             "price":  32.9,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Queijo coalho 320 gr",
+                                             "description":  "null",
+                                             "price":  32.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/f131f5e2-42e2-44c3-b890-0e92440ea017.jfif"
+                                         },
+                                         {
+                                             "name":  "Carpaccio de carne 250 gr",
+                                             "description":  "null",
+                                             "price":  43.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/cb11b7a9-233f-4798-80b4-335872d30e6d.jfif"
+                                         },
+                                         {
+                                             "name":  "Filé aperitivo 350 gr",
+                                             "description":  "null",
+                                             "price":  43.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/e8550de0-4f65-433a-9680-f870a159bfe0.jfif"
+                                         },
+                                         {
+                                             "name":  "Crostine 100 gr",
+                                             "description":  "escolha a opçao (alecrim, parmessâo, lemon pepper, cebola)",
+                                             "price":  16.9,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Crostine+pasta 170 gr",
+                                             "description":  "escolha 1 pasta ( tomate seco ou gorgonzola)",
+                                             "price":  24.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/560d8cfc-c01e-4f52-8cbc-c8df48629fd8.jfif"
+                                         },
+                                         {
+                                             "name":  "Dadinho de tapioca com geléia de pimenta 180 gr",
+                                             "description":  "null",
+                                             "price":  32.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/3bfd72fd-e412-4085-9381-7198ff831598.jfif"
+                                         },
+                                         {
+                                             "name":  "DADINHO DE TAPIOCA COM CALABRESA 180 gramas",
+                                             "description":  null,
+                                             "price":  32.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/5fd1b215-362d-4752-a4be-f1dfe79565be.jfif"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Sobremesa",
+                           "items":  [
+                                         {
+                                             "name":  "Sobremesa do dia",
+                                             "description":  "Consultar o garçom",
+                                             "price":  14.9,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Sorvete de creme 1 bola",
+                                             "description":  "null",
+                                             "price":  19.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/ddf6b981-cfc7-4a59-aca0-92e7596fbbb9.jfif"
+                                         },
+                                         {
+                                             "name":  "Sorvete de tapioca com calda de gengibre e castanha",
+                                             "description":  "1 bola",
+                                             "price":  24.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/8b14469a-f23e-493e-8f9f-c40537b1b25d.jfif"
+                                         },
+                                         {
+                                             "name":  "Bolinho Vivagula 250 gr",
+                                             "description":  "Bolinho de chocolate, com recheio e acompanha 1 bola de sorvete",
+                                             "price":  34.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/263dafff-edba-41e2-b116-d116d0b87b9f.jfif"
+                                         },
+                                         {
+                                             "name":  "Sorvete de tapioca DIETcom calda de gengibre (sem açucar)",
+                                             "description":  "Produto sem açucar",
+                                             "price":  23.9,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Combo de sobremesa + café expresso",
+                                             "description":  "Sobremesa do dia + café expresso - consultar garçon para verificar opções.",
+                                             "price":  18.9,
+                                             "image":  null
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Bebidas",
+                           "items":  [
+                                         {
+                                             "name":  "Licores",
+                                             "description":  "null",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Whiskies",
+                                             "description":  "",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Destilados",
+                                             "description":  null,
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Chopps e cervejas",
+                                             "description":  "null",
+                                             "price":  15.9,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "bebidas",
+                                             "description":  null,
+                                             "price":  0,
+                                             "image":  null
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Massas",
+                           "items":  [
+                                         {
+                                             "name":  "Sugestao do chef 300 gr",
+                                             "description":  "Consultar o garçom",
+                                             "price":  44.9,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Ravioli oliva 300 gr",
+                                             "description":  "na manteiga e salvia",
+                                             "price":  49.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/2484de01-c457-4e44-85c7-dda5f1a5712f.jfif"
+                                         },
+                                         {
+                                             "name":  "Nhoque de mandiquinha 300 gr",
+                                             "description":  "Ao molho pomodoro",
+                                             "price":  49.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/aac27d84-abfa-4143-841f-e5bd826a3ba7.jfif"
+                                         },
+                                         {
+                                             "name":  "Nhoque de queijo ao funghi com shitaki 300 gr",
+                                             "description":  "Ao molho funghi",
+                                             "price":  49.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/b1d4212f-8e4f-479f-a5c3-72ef583f2b5a.jfif"
+                                         },
+                                         {
+                                             "name":  "Talharim ao pesto e camarão 300 gr",
+                                             "description":  "Ao pesto de manjericão e camarão",
+                                             "price":  64.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/ae485439-0eac-4973-b96a-b308e1f2ddfa.jfif"
+                                         },
+                                         {
+                                             "name":  "Tortelli de brie com pêra 300 gr",
+                                             "description":  "Ao molho limoni",
+                                             "price":  54.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/10aadd6e-77ce-4ba3-8924-b34716db75dc.jfif"
+                                         },
+                                         {
+                                             "name":  "Penne com escalope de filé ao funghi 300 gr",
+                                             "description":  "Isca de filé mingnon ao molho funghi",
+                                             "price":  54.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/d7448512-4456-4527-91a4-dd8a5c280bf8.jfif"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Carnes",
+                           "items":  [
+                                         {
+                                             "name":  "Filé mingnon a parmegiana 200 gr",
+                                             "description":  "escolha 2 acompanhamentos (arroz branco, purê de batata, tomate com manjericão)",
+                                             "price":  79.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/2e13eddd-66a9-41f5-875f-71516b5e3edd.jfif"
+                                         },
+                                         {
+                                             "name":  "Filé de frango a parmegiana 180 gr",
+                                             "description":  "escolha 2 acompanhamentos (purê de batata, tomate com manjericão, arroz branco)",
+                                             "price":  64.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/18f97867-142c-4b9e-bb1a-9a13be40008d.jfif"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Risoto",
+                           "items":  [
+                                         {
+                                             "name":  "Risoto de camarão 350 gr",
+                                             "description":  "ao pesto de manjericão",
+                                             "price":  64.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/bb95de73-01ed-4aa2-aa7e-8fea73dc0324.jfif"
+                                         },
+                                         {
+                                             "name":  "Risoto de brie com tomate seco 350 gr",
+                                             "description":  "brie, tomate seco e rucula",
+                                             "price":  64.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/0e0ec0ac-26e5-4d53-a27f-ade6e41ced7c.jfif"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Saladas",
+                           "items":  [
+                                         {
+                                             "name":  "Mix de folhas 300 gr",
+                                             "description":  "null",
+                                             "price":  36.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/5b6f8a30-f2f7-4a18-816b-e07d829379ef.jfif"
+                                         },
+                                         {
+                                             "name":  "Ceesar de frango 300 gr",
+                                             "description":  "alface americano, molho ceaser, frango grelhado, nozes, crutons e parmessao",
+                                             "price":  44.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/2a72da4b-de9a-4073-b9ad-17d633127e5c.jfif"
+                                         },
+                                         {
+                                             "name":  "Ceesar de camarão 300 gr",
+                                             "description":  "alface americano, molho ceaser, camarão, nozes, crutons e parmessao",
+                                             "price":  54.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/c70df878-5e7f-4a9b-87ae-5e7ce71a63da.jfif"
+                                         },
+                                         {
+                                             "name":  "Caprese 300 gr",
+                                             "description":  "mix de folhas, tomate cereja, mussarela de bufala",
+                                             "price":  44.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/de5bd314-ed1d-4225-8f0d-496f9b4e625a.jfif"
+                                         },
+                                         {
+                                             "name":  "Oliva 300 gr",
+                                             "description":  "mix de folhas, tomate cereja, camarão",
+                                             "price":  54.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/9bb6ecd4-46d7-4d70-a66c-9643a2d70ca0.jfif"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Cardapio infantil",
+                           "items":  [
+                                         {
+                                             "name":  "Lasanha bolonhesa 250 gr",
+                                             "description":  "",
+                                             "price":  34.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/e6826419-1fe9-42de-96a3-151f718d0e40.jfif"
+                                         },
+                                         {
+                                             "name":  "Spaghetti a bolonhesa 250 gr",
+                                             "description":  "null",
+                                             "price":  34.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/83750481-59d5-4916-94c0-7dd63cb7f1c7.jfif"
+                                         },
+                                         {
+                                             "name":  "Bife de filé mingnon, arroz e fritas 300 gr",
+                                             "description":  "null",
+                                             "price":  35.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/34121a8e-95fe-42d4-ab40-56d13d2e7345.jfif"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Pizzas",
+                           "items":  [
+                                         {
+                                             "name":  "Mussarela",
+                                             "description":  "M 6 fatias - R$ 63,90  G 8 fatias - R$79,90 (molho de tomate, mussarela e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Berinjela",
+                                             "description":  "M 6 fatias - R$ 63,90  G 8 fatias - R$ 79,90 (molho de tomate, mussarela, berinjela grelhada, alho, parmessao e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Marguerita",
+                                             "description":  "M 6 fatias - R$ 63,90  G 8 fatias - R$ 79,90 (molho de tomate, mussarela, tomate, manjericão,  e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Napolitana",
+                                             "description":  "M 6 fatias - R$ 63,90  G 8 fatias - R$ 79,90 (molho de tomate, mussarela, tomate, parmessao e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Calabresa",
+                                             "description":  "M 6 fatias - R$ 63,90  G 8 fatias - R$ 79,90 (molho de tomate, mussarela, calabresa, cebola e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Portuguesa",
+                                             "description":  "M 6 fatias - R$ 67,90,90  G 8 fatias - R$ 85,90,90 (molho de tomate, mussarela, presunto cozido, ovos, cebola, pimentão verde e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Oliva",
+                                             "description":  "M 6 fatias - R$ 67,90  G 8 fatias - R$ 85,90 (molho de tomate, mussarela, bacon, champignon e azeitona preta))",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Quatro Queijos",
+                                             "description":  "M 6 fatias - R$ 67,9058,90  G 8 fatias - R$ 85,90 (molho de tomate, mussarela, catupiry, gorgonzola, parmessao e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Aliche",
+                                             "description":  "M 6 fatias - R$ 67,90 G 8 fatias - R$ 85,90 (molho de tomate, mussarela, aliche e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Palmito",
+                                             "description":  "M 6 fatias - R$ 67,90  G fatias - R$ 85,90 (molho de tomate, mussarela, palmito, azeitona verde, parmessao e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Rúcula c/ tomate seco e oregano",
+                                             "description":  "M 6 fatias - R$63,90  G 8 fatias - R$ 79,90 (molho de tomate, mussarela, rúcula, tomate seco e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Atum",
+                                             "description":  "M 6 fatias - R$ 67,90 G 8 fatias - R$ 85,90 (molho de tomate, mussarela, cebola, atum e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Capricciosa",
+                                             "description":  "M 6 fatias - R$ 67,90  G 8 fatias - R$ 85,90 (molho de tomate, mussarela, alho frito, presunto cozido, gorgonzola, champingnon, e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Peito de peru e catupiry",
+                                             "description":  "M 6 fatias - R$ 63,90  G 8 fatias - R$ 85,90 (molho de tomate, mussarela, peito peru, catupiry e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Parma",
+                                             "description":  "M 6 fatias - R$67,90  G 8 fatias - R$ 85,90 (molho de tomate, mussarela, presunto de parma e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Frango com catupiry",
+                                             "description":  "M 6 fatias - R$ 67,90  G 8 fatias - R$ 85,90 (molho de tomate, mussarela, catupiry, frango desfiado, milho e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Oliva paralela",
+                                             "description":  "M 6 fatias - R$ 67,90  G 8 fatias - R$ 85,90 (molho de tomate, mussarela, catupiry, abobrinha grelhada, lâminas de amêndoas e pesto de rucula)",
+                                             "price":  0,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/461bc49c-bebc-4549-a3d0-7a7dcc335425.jfif"
+                                         },
+                                         {
+                                             "name":  "Siciliana",
+                                             "description":  "M 6 fatias - R$ 67,90 G 8 fatias - R$85,90 (molho de tomate, mussarela, lombo canadense, cebola e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Pepperoni",
+                                             "description":  "M 6 fatias - R$ 67,90 G 8 fatias - R$ 85,90 (molho de tomate, mussarela, pepperoni e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Zuchini",
+                                             "description":  "M 6 fatias - R$ 67,90  G 8 fatias - R$ 85,90 (molho de tomate, mussarela, queijo brie, abobrinha grelhada, alho e oleo, parmessao e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Sertaneja",
+                                             "description":  "M 6 fatias - R$ 67,90  G 8 fatias - R$ 85,90 (molho de tomate, mussarela, catupiry, carne seca, banana-prata e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Fumeiro",
+                                             "description":  "M 6 fatias - R$ 67,90  G 8 fatias - R$85,90 (molho de tomate, mussarela, carne de fumeiro, catupiry e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "D\u0027Italia",
+                                             "description":  "M 6 fatias - R$ 67,90  G 8 fatias - R$ 85,90 (molho de tomate, mussarela, peito de peru, geleia de amora, manjericao e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Havaiana",
+                                             "description":  "M 6 fatias - R$ 67,90  G 8 fatias - R$ 85,90 (molho de tomate, mussarela, presunto, abacaxi e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Baiana",
+                                             "description":  "M 6 fatias - R$ 67,90  G 8 fatias - R$ 85,90 (molho de tomate, mussarela, lombinho moido, calabresa moida, presunto moido, pimenta tabasco, pimenta calabresa e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Camarão",
+                                             "description":  "M 6 fatias - R$ 76,90  G 8 fatias - R$ 98,90 (molho de tomate, mussarela, camarão, pesto de rucula e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Maré",
+                                             "description":  "M 6 fatias - R$ 76,90  G 8 fatias - R$ 98,90 (molho de tomate, mussarela, lula, polvo, camarao, pesto de rucula e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Parma com queijo de cabra",
+                                             "description":  "M 6 fatias - R$ 76,90  G 8 fatias - R$ 98,90 (molho de tomate, mussarela de bufala, queijo de cabra, presunto de parma, tomate confitado e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Marguerita especial",
+                                             "description":  "M 6 fatias - R$ 76,90  G 8 fatias - R$ 98,90 (molho de tomate, mussarela de bufala, pesto de azeitonas pretas, manjericao, tomate confitado e oregano)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Shopping Barra",
+                                             "description":  "M 6 fatias - R$76,90  G 8 fatias - R$ 98,90 (molho de tomate, mussarela, camarao, alface americana, tomate cereja, lascas de parmessao e oregano)",
+                                             "price":  0,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/1a996d7a-70bc-4880-9ca8-370a5d4e565f.jfif"
+                                         },
+                                         {
+                                             "name":  "Suprema",
+                                             "description":  "M 6 fatias - R$ 76,90  G 8 fatias - R$ 98,90 (molho de tomate, mussarela, fumeiro, banana da terra grelhada e bordas recheadas com compota de banana  com catupiry)",
+                                             "price":  0,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/0ce26766-da35-4159-9070-744136aa12e7.jfif"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Pizzas doces",
+                           "items":  [
+                                         {
+                                             "name":  "Banana com nutella",
+                                             "description":  "M 6 fatias - R$ 58,90 G 8 fatias - R$ 75,90 (banana e nutella)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Romeu e julieta",
+                                             "description":  "M 6 fatias - R$ 58,90 G 8 fatias - R$ 75,90 (mussarela e goiabada)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Banana com canela",
+                                             "description":  "M 6 fatias - R$ 58,90 G 8 fatias - R$ 75,90 (mussarela, banana e canela em pó)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Doce de leite",
+                                             "description":  "M 6 fatias - R$ 58,90 G 8 fatias - R$ 75,90 (mussarela e doce de leite)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Prestigio",
+                                             "description":  "M 6 fatias - R$ 58,90 G 8 fatias - R$ 75,90 (mussarela, chocolate e coco ralado)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Beijinho",
+                                             "description":  "M 6 fatias - R$ 58,90 G 8 fatias - R$ 75,90 (mussarela, beijinho e coco ralado)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "M\u0027ms",
+                                             "description":  "M 6 fatias - R$ 58,90 G 8 fatias - R$ 75,90 (mussarela, leite condensado, cobertura de chocolate e m\u0027ms)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Oreo",
+                                             "description":  "M 6 fatias - R$ 58,90 G 8 fatias - R$ 75,90 (mussarela, leite condensado, cobertura de chocolate e biscoito oreo)",
+                                             "price":  0,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Morango com nutella",
+                                             "description":  "M 6 fatias - R$ 58,90 G 8 fatias - R$ 75,90 (nutella e morango)",
+                                             "price":  0,
+                                             "image":  null
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Grelhados",
+                           "items":  [
+                                         {
+                                             "name":  "Chorizo (250g)",
+                                             "description":  "Almoço (adc. ao buffet) R$ 44,90    Jantar (2 acomps) R$ 84,90",
+                                             "price":  0,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/b19e2882-0c7e-4c72-aad4-e2c39b2dbf9d.jfif"
+                                         },
+                                         {
+                                             "name":  "Filé Mignon (200g)",
+                                             "description":  "Almoço (adc. ao buffet) R$ 24,90   Jantar (2 acompanhametos) R$ 65,90",
+                                             "price":  0,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/c465e5e2-9ac6-49e2-9501-1b93af5a676b.jfif"
+                                         },
+                                         {
+                                             "name":  "Galeto Desossado (350g)",
+                                             "description":  "Almoço (adc. ao buffet) R$ 19,90  Jantar (2 acompanhamento) R$ 59,90",
+                                             "price":  0,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/28cb8886-18fc-4c54-9b6c-8867d1aed76c.jfif"
+                                         },
+                                         {
+                                             "name":  "Peito de Frango (180g)",
+                                             "description":  "Almoço (adc. ao buffet) R$ 15,90   Jantar (2 acompanhamento) R$ 49,90",
+                                             "price":  0,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/4a8ad06d-99ef-4e6e-b5ba-ceb2e298bacd.jfif"
+                                         },
+                                         {
+                                             "name":  "Salmão (180g)",
+                                             "description":  "Almoço (adc. ao buffet) R$29,90   Jantar (2 acompanhamento) R$ 79,90",
+                                             "price":  0,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/77201b28-f653-46a0-895d-54f50fcc9b8b.jfif"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Acompanhamentos",
+                           "items":  [
+                                         {
+                                             "name":  "Arroz com brócolis 150 gr",
+                                             "description":  "null",
+                                             "price":  21.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/111aa75b-82b7-478f-b57e-1239c3d262fc.jfif"
+                                         },
+                                         {
+                                             "name":  "Batata frita 200 gr",
+                                             "description":  "null",
+                                             "price":  19.9,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Farofa de banana 150 gr",
+                                             "description":  "null",
+                                             "price":  17.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/e9296323-4aa7-4732-b735-37062d1506f7.jfif"
+                                         },
+                                         {
+                                             "name":  "Batata rustica 150 gr",
+                                             "description":  "null",
+                                             "price":  19.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/30c80a35-a62b-43b1-8ccb-cd132ff7998a.jfif"
+                                         },
+                                         {
+                                             "name":  "Batata assada com manteiga de ervas 150 gr",
+                                             "description":  "null",
+                                             "price":  19.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/67d08ef0-e630-4a65-9606-b24704afb25b.jfif"
+                                         },
+                                         {
+                                             "name":  "Farofa de tapioca 150 gr",
+                                             "description":  "null",
+                                             "price":  17.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/cc8469d4-870d-4d7e-b50e-f9da73769dc8.jfif"
+                                         },
+                                         {
+                                             "name":  "Feijao verde com queijo coalho e tapioca 150 gr",
+                                             "description":  "null",
+                                             "price":  17.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/3da48f97-7b01-48db-9108-257237619e84.jfif"
+                                         },
+                                         {
+                                             "name":  "Legumes grelhados 150 gr",
+                                             "description":  "tomate, brocolis, cebola abobrinha, berinjela",
+                                             "price":  19.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/6cf4f592-3081-4902-8e96-5075c43d2385.jfif"
+                                         },
+                                         {
+                                             "name":  "Mix de folhas 150 gr",
+                                             "description":  "null",
+                                             "price":  17.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/048ec6d4-044e-4a59-95f5-00a9c0617083.jfif"
+                                         },
+                                         {
+                                             "name":  "Purê de batata 150 gr",
+                                             "description":  "null",
+                                             "price":  16.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/4795f2cb-3627-4354-96a8-a93b873269c4.jfif"
+                                         },
+                                         {
+                                             "name":  "Purê de mandioquinha 150 gr",
+                                             "description":  "null",
+                                             "price":  19.9,
+                                             "image":  "https://storage.googleapis.com/ovc-storage/menumais/23075f0f-7386-4baa-937f-9af8b37c8f10.jfif"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Vinhos",
+                           "items":  [
+                                         {
+                                             "name":  "FAVOR SOLICITAR NOSSA CARTA DE VINHOS AO GARÇOM",
+                                             "description":  null,
+                                             "price":  0,
+                                             "image":  null
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Buffet/ Rodizio",
+                           "items":  [
+                                         {
+                                             "name":  "Buffet segunda a sexta",
+                                             "description":  "null",
+                                             "price":  74.9,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Buffet sexta, sabado, domingo, feriado e datas comemorativas",
+                                             "description":  "null",
+                                             "price":  84.9,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Rodizio segunda a quinta",
+                                             "description":  "Nos dias de semana, durante a promoção, não servimos os sabores especiais como Camarão e frutos do mar.",
+                                             "price":  69.9,
+                                             "image":  null
+                                         },
+                                         {
+                                             "name":  "Rodizio sexta a domingo, feriados e datas comemorativas",
+                                             "description":  "null",
+                                             "price":  79.9,
+                                             "image":  null
+                                         }
+                                     ]
+                       }
+                   ]
+}

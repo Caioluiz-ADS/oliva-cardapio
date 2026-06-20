@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+.DS_Store
+Thumbs.db
+# imagens de referência originais (as usadas ficam em assets/)
+assets/ref/

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cardápio · Oliva Gourmet — Cozinha &amp; Chopp · Salvador</title>
+  <meta name="description" content="Cardápio do Oliva Gourmet: buffet, rodízio de pizza, massas, risotos, grelhados e a carta completa. Cozinha & Chopp em Salvador." />
+  <meta name="theme-color" content="#161819" />
+  <meta property="og:title" content="Cardápio · Oliva Gourmet" />
+  <meta property="og:description" content="Buffet, rodízio, massas, pizzas e grelhados. Cozinha & Chopp em Salvador." />
+  <meta property="og:type" content="restaurant.menu" />
+
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cpath fill='%238cba29' d='M30 20c-9 0-16 8-16 19s7 18 16 18 16-7 16-18-7-19-16-19z'/%3E%3Cpath fill='%235d7d1c' d='M33 21c-1-9 5-15 14-14-1 9-7 15-14 14z'/%3E%3C/svg%3E" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400&family=Roboto+Slab:wght@400;500;600;700;800&family=Dancing+Script:wght@600;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- azeitona reutilizável (placeholders) -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <symbol id="olive" viewBox="0 0 64 64">
+      <path class="olive-leaf-a" fill="#5d7d1c" d="M33.5 20.5C32 11 38 4.5 48.5 5.8c.4 9.6-6.2 15.7-15 14.7z"/>
+      <path class="olive-leaf-b" fill="#6f971f" d="M31 21.5c-4.4-5.2-12.6-5-17.4-1.2 4.7 4.7 12.2 5 17.4 1.2z"/>
+      <path class="olive-body" fill="#8cba29" d="M29 19.5c-9.2 0-15.7 8.3-15.7 19.3S19.8 57 29 57s15.7-7.2 15.7-18.2S38.2 19.5 29 19.5z"/>
+    </symbol>
+  </svg>
+
+  <!-- ============ HEADER ============ -->
+  <header class="site-header" id="header">
+    <div class="container header-inner">
+      <a href="#top" class="brand" aria-label="Oliva Gourmet — início">
+        <img class="brand-logo" src="assets/logo.png" alt="Oliva Gourmet" />
+      </a>
+      <nav class="nav" id="nav" aria-label="Navegação">
+        <a href="#menu" class="nav-link">Cardápio</a>
+        <a href="#contato" class="nav-link">Contato</a>
+        <a href="#" class="btn btn-red nav-cta" id="navCall">Ligar</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle" aria-label="Abrir menu" aria-expanded="false" aria-controls="nav">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main id="top">
+    <!-- ============ HERO / BANNER ============ -->
+    <section class="hero" id="hero">
+      <img class="hero-bg" src="assets/banner.jpg" alt="" aria-hidden="true" />
+      <div class="hero-overlay" aria-hidden="true"></div>
+      <div class="container hero-inner">
+        <img class="hero-logo" src="assets/logo.png" alt="Oliva Gourmet" />
+        <p class="eyebrow center-x"><span class="eyebrow-rule"></span>Cardápio digital<span class="eyebrow-rule"></span></p>
+        <h1 class="hero-title">Cozinha &amp; <span>Chopp</span></h1>
+        <p class="hero-lede">Buffet, rodízio de pizza, massas, risotos e grelhados — a nossa carta completa, do jeitinho que você gosta.</p>
+        <ul class="hero-meta">
+          <li><svg class="ico" aria-hidden="true"><use href="#i-pin"/></svg> Shopping da Bahia · Salvador</li>
+          <li><svg class="ico" aria-hidden="true"><use href="#i-clock"/></svg> Almoço &amp; jantar, todos os dias</li>
+        </ul>
+        <div class="hero-actions">
+          <a href="#menu" class="btn btn-primary">Ver o cardápio</a>
+          <a href="#" class="btn btn-line" id="heroCall">Ligar &amp; reservar</a>
+        </div>
+      </div>
+      <a href="#menu" class="hero-scroll" aria-label="Rolar para o cardápio"><span></span></a>
+    </section>
+
+    <!-- ============ MENU ============ -->
+    <section class="section menu" id="menu">
+      <div class="container">
+        <header class="section-head center menu-intro reveal">
+          <p class="eyebrow"><span class="eyebrow-rule"></span>O cardápio<span class="eyebrow-rule"></span></p>
+          <h2 class="section-title">Da entrada à sobremesa</h2>
+          <p class="section-sub">Ingredientes selecionados e receitas da casa. Preços em reais (R$).</p>
+        </header>
+
+        <div class="menu-tools" id="menuTools">
+          <div class="search">
+            <svg class="ico" aria-hidden="true"><use href="#i-search"/></svg>
+            <input type="search" id="menuSearch" placeholder="Buscar um prato, ingrediente…" aria-label="Buscar no cardápio" />
+          </div>
+          <nav class="cat-nav" id="catNav" aria-label="Categorias do cardápio"></nav>
+        </div>
+
+        <div id="menuSections"></div>
+        <p class="menu-empty" id="menuEmpty" hidden>Nenhum prato encontrado para essa busca.</p>
+      </div>
+    </section>
+
+    <!-- ============ CONTATO ============ -->
+    <section class="strip" id="contato">
+      <div class="container strip-grid">
+        <div class="strip-item">
+          <svg class="ico" aria-hidden="true"><use href="#i-pin"/></svg>
+          <div><h4>Onde estamos</h4><p>Shopping da Bahia<br/>Salvador — BA</p></div>
+        </div>
+        <div class="strip-item">
+          <svg class="ico" aria-hidden="true"><use href="#i-clock"/></svg>
+          <div><h4>Horário</h4><p>Almoço &amp; jantar<br/>Todos os dias</p></div>
+        </div>
+        <div class="strip-item">
+          <svg class="ico" aria-hidden="true"><use href="#i-phone"/></svg>
+          <div><h4>Reservas</h4><p><a href="#" id="stripPhone" class="link"></a></p></div>
+        </div>
+        <div class="strip-item">
+          <svg class="ico" aria-hidden="true"><use href="#i-card"/></svg>
+          <div><h4>Pagamento</h4><p id="stripPay">—</p></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="site-footer">
+    <div class="container">
+      <img class="footer-logo" src="assets/logo.png" alt="Oliva Gourmet" />
+      <p class="footer-tag">Cozinha &amp; Chopp no coração de Salvador. Buffet, rodízio e à la carte.</p>
+      <div class="footer-contact">
+        <a href="#" id="footPhone"><svg class="ico" aria-hidden="true"><use href="#i-phone"/></svg></a>
+        <span><svg class="ico" aria-hidden="true"><use href="#i-pin"/></svg>Shopping da Bahia · Salvador — BA</span>
+      </div>
+      <div class="footer-base">© <span id="year"></span> Oliva Gourmet · Cardápio digital</div>
+    </div>
+  </footer>
+
+  <button class="to-top" id="toTop" aria-label="Voltar ao topo"><svg class="ico" aria-hidden="true"><use href="#i-up"/></svg></button>
+
+  <!-- ícones -->
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <symbol id="i-pin" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+    <symbol id="i-phone" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3.1-8.7A2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8.1 9.9a16 16 0 0 0 6 6l1.3-1.2a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2Z"/></symbol>
+    <symbol id="i-card" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="20" height="14" rx="2"/><path d="M2 10h20"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></symbol>
+    <symbol id="i-up" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></symbol>
+  </svg>
+
+  <script src="js/menu-data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

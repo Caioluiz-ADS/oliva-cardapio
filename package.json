@@ -1,0 +1,11 @@
+{
+  "name": "oliva-gourmet-menu",
+  "version": "1.0.0",
+  "description": "Cardápio digital do Oliva Gourmet — Shopping da Bahia, Salvador",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build:data": "node tools/build-menu.js"
+  }
+}
